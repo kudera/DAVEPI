@@ -1,7 +1,7 @@
 {
     "DAVE_API": {
-        "BASIC_AUTH_USERNAME": "dave.kudera",
-        "BASIC_AUTH_PASSWORD": "roger2022",
+        "BASIC_AUTH_USERNAME": "username",
+        "BASIC_AUTH_PASSWORD": "password",
         "BASIC_AUTH_FORCE": "True"
     }
 }
